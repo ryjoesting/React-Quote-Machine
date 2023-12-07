@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Quote-Machine/static/css/main.f855e6bc.css",
+    "main.js": "/React-Quote-Machine/static/js/main.9b25edfe.js",
+    "static/js/787.79e73d23.chunk.js": "/React-Quote-Machine/static/js/787.79e73d23.chunk.js",
+    "index.html": "/React-Quote-Machine/index.html",
+    "main.f855e6bc.css.map": "/React-Quote-Machine/static/css/main.f855e6bc.css.map",
+    "main.9b25edfe.js.map": "/React-Quote-Machine/static/js/main.9b25edfe.js.map",
+    "787.79e73d23.chunk.js.map": "/React-Quote-Machine/static/js/787.79e73d23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9b25edfe.js"
+  ]
+}
